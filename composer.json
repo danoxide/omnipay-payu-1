@@ -11,13 +11,9 @@
         "payu",
         "purchase"
     ],
-    "homepage": "https://github.com/bileto/omnipay-payu",
+    "homepage": "https://github.com/danoxide/omnipay-payu",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Jan Machala",
-            "email": "jan.machala@bileto.com"
-        },
         {
             "name": "Piotr Filipek",
             "email": "pfilipek@media4u.pl"
