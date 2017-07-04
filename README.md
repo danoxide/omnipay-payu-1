@@ -21,7 +21,7 @@ to your `composer.json` file:
     }
 }
 ```
-## TL;DR
+## How to use
 ```php
 <?php
 require 'vendor/autoload.php';
